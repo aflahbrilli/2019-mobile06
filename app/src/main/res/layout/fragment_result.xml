@@ -17,8 +17,8 @@
 
     <TextView
         android:id="@+id/text_information"
-        android:layout_width="375dp"
-        android:layout_height="57dp"
+        android:layout_width="376dp"
+        android:layout_height="83dp"
         android:fontFamily="sans-serif-medium"
         android:hint="Add your information here"
         android:textSize="30dp"
